@@ -81,7 +81,7 @@ The platform enables users to:
 ### 1. Clone the backend Repository - run locally
 
 ```bash
-git clone https://github.com/yash-parekh715/taskboard-backend.git
+git clone https://github.com/NisargKasundra20/taskboard-backend.git
 cd taskboard-backend
 npm install
 ```
